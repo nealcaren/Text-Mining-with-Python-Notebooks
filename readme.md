@@ -10,10 +10,10 @@
    1. [Python 101](Notebooks/python.ipynb)    
    3. [Pandas 101](Notebooks/pandas.ipynb)    
 1. Collecting Texts
-	1. From text files - ?
-	2. Web APIs - ?
-	3. Web Scraping - ?
-	4. PDFs - ?
+	2. [Web APIs](Notebooks/APIs.ipynb)
+	3. [Web Scraping](Notebooks/Web.ipynb)
+	1. [Other files](Notebooks/other-files.ipynb)
+  4. [PDFs](Notebooks/from-PDF-to-txt.ipynb)
 	5. Word Documents - ?
 	4. [Case Study: Twitter with Twint](scraping-twitter-with-twint.ipynb)   
   4. Case Study: Reddit    
