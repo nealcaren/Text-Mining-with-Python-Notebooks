@@ -4,9 +4,11 @@
 
 
 1. Getting started
-   1. [Installation](Notebooks/01-setup.ipynb)
-   2. Python 101 - *draft completed*
-   3. Pandas 101 - *draft completed*
+   1. [Installing your tools](Notebooks/setup.ipynb)
+   2. [Using Jupyter Notebooks](Notebooks/using-jupyter-notebooks.ipynb)
+2. Basics
+   2. [Python 101](Notebooks/python.ipynb)
+   3. [Pandas 101](Notebooks/pandas.ipynb)
 1. Collecting Texts
 	1. From text files - ?
 	2. Web APIs - ?
