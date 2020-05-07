@@ -1,4 +1,4 @@
-###Text Mining with Python
+# Text Mining with Python
 *Neal Caren and Katherine Furl*   
 *University of North Carolina, Chapel Hill*
 
