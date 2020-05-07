@@ -15,17 +15,17 @@
 	3. Web Scraping - ?
 	4. PDFs - ?
 	5. Word Documents - ?
-	4. Case Study: Twitter with Twint - *draft complete*
-	5. Other uses cases - ???
+	4. [Case Study: Twitter with Twint](scraping-twitter-with-twint.ipynb)   
+  4. Case Study: Reddit    
+2. Counting words   
+   	1. Frequencies
+   	2. Sentiment
+   	3. Case Study:  ???   
 3. Natural Language Processing
    1. Part of speech tagging
    2. Named Entity Extraction
    3. Word vectors
    4. Case Study:  ???
-2. Counting words
- 	1. Frequencies
- 	2. Sentiment
- 	3. Case Study:  ???
 4. Analysis
    1. Classification
    2. Topic Modeling
@@ -33,4 +33,5 @@
 5. Appendix
    1. Pipelines - ?
    2. Train/test out of sample
-   3. Bigrams?
+   3. Bigrams?    
+   4. Teaching with Notebooks
