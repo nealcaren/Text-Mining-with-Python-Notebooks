@@ -4,7 +4,7 @@
 
 
 1. Getting started
-   1. Installation - *draft completed*
+   1. [Installation](Notebooks/01-setup.ipynb)
    2. Python 101 - *draft completed*
    3. Pandas 101 - *draft completed*
 1. Collecting Texts
@@ -14,7 +14,7 @@
 	4. PDFs - ?
 	5. Word Documents - ?
 	4. Case Study: Twitter with Twint - *draft complete*
-	5. Other uses cases - ??? 
+	5. Other uses cases - ???
 3. Natural Language Processing
    1. Part of speech tagging
    2. Named Entity Extraction
@@ -31,7 +31,4 @@
 5. Appendix
    1. Pipelines - ?
    2. Train/test out of sample
-   3. Bigrams? 
-
-   
-   
+   3. Bigrams?
