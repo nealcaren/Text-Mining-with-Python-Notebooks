@@ -1,5 +1,5 @@
 # Text Mining with Python
-*[Neal Caren](https://nealcaren.org) and Katherine Furl*   
+*Neal Caren and Katherine Furl*   
 *University of North Carolina, Chapel Hill*
 
 
@@ -12,10 +12,10 @@
 1. Collecting Texts
 	2. [Web APIs](Notebooks/APIs.ipynb)
 	3. [Web Scraping](Notebooks/Web.ipynb)
-	1. [Other files](Notebooks/other-files.ipynb)
-  4. [PDFs](Notebooks/from-PDF-to-txt.ipynb)
-	5. Word Documents - ?
-	4. [Case Study: Twitter with Twint](scraping-twitter-with-twint.ipynb)   
+	1. [Other files](Notebooks/other-files.ipynb)    
+  4. [PDFs](Notebooks/from-PDF-to-txt.ipynb)    
+	5. Word Documents - ?    
+	4. [Case Study: Twitter with Twint](scraping-twitter-with-twint.ipynb)     
   4. Case Study: Reddit    
 2. Counting words   
    	1. Frequencies
