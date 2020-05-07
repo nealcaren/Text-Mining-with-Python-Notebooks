@@ -1,5 +1,5 @@
 # Text Mining with Python
-*Neal Caren and Katherine Furl*   
+*[Neal Caren](https://nealcaren.org) and Katherine Furl*   
 *University of North Carolina, Chapel Hill*
 
 
