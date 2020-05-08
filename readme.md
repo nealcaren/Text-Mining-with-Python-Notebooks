@@ -15,7 +15,7 @@
    1. [Other files](Notebooks/other-files.ipynb)    
    4. [PDFs](Notebooks/from-PDF-to-txt.ipynb)    
    5. Word Documents - ?    
-   4. [Case Study: Twitter with Twint](scraping-twitter-with-twint.ipynb)     
+   4. [Case Study: Twitter with Twint](Notebooks/scraping-twitter-with-twint.ipynb)     
    4. Case Study: Reddit    
 2. Counting words   
    	1. Frequencies
