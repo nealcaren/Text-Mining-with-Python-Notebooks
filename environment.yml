@@ -12,6 +12,8 @@ dependencies:
   - nest-asyncio
   - pdf2image
   - tesseract
+  - pip
+  - anaconda
   - pip:
     - requests-html
     - afinn
