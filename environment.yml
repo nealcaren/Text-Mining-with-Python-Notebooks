@@ -1,0 +1,20 @@
+name: TMWP
+channels:
+  - conda-forge
+dependencies:
+  - docx2txt
+  - PyPDF2
+  - aiohttp
+  - pysocks
+  - geopy
+  - googletrans
+  - cchardet
+  - nest-asyncio
+  - pdf2image
+  - tesseract
+  - pip:
+    - requests-html
+    - afinn
+    - vaderSentiment
+    - twint
+    - pyocr
