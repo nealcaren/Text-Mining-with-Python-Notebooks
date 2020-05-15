@@ -1,4 +1,4 @@
-name: TMWP
+name: tmwp
 channels:
   - conda-forge
 dependencies:
@@ -12,6 +12,12 @@ dependencies:
   - nest-asyncio
   - pdf2image
   - tesseract
+  - anaconda
+  - bs4
+  - parse
+  - spacy
+  - spacy-model-en_core_web_md
+  - newspaper3k
   - pip
   - pip:
     - requests-html
