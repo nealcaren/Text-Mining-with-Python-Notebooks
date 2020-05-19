@@ -11,9 +11,11 @@ dependencies:
   - cchardet
   - nest-asyncio
   - pdf2image
+  - poppler
   - tesseract
   - pandas
   - jupyter
+  - black
   - nltk
   - bs4
   - parse
@@ -28,3 +30,4 @@ dependencies:
     - vaderSentiment
     - twint
     - pyocr
+    - blackcellmagic
