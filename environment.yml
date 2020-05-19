@@ -17,6 +17,7 @@ dependencies:
   - nltk
   - bs4
   - parse
+  - beautifulsoup4
   - spacy
   - spacy-model-en_core_web_md
   - newspaper3k
