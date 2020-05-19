@@ -15,11 +15,19 @@ dependencies:
   - tesseract
   - pandas
   - jupyter
+  - matplotlib
+  - scipy
+  - numpy
+  - seaborn
+  - scikit-learn
+  - statsmodels
   - black
   - nltk
   - bs4
   - parse
   - beautifulsoup4
+  - gensim
+  - nltk
   - spacy
   - spacy-model-en_core_web_md
   - newspaper3k
