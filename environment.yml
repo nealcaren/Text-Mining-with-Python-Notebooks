@@ -12,7 +12,9 @@ dependencies:
   - nest-asyncio
   - pdf2image
   - tesseract
-  - anaconda
+  - pandas
+  - jupyter
+  - nltk
   - bs4
   - parse
   - spacy
