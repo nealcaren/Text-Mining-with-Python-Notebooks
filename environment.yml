@@ -38,5 +38,6 @@ dependencies:
     - afinn
     - vaderSentiment
     - twint
+    - praw
     - pyocr
     - blackcellmagic
