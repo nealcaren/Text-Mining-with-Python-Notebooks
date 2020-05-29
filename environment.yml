@@ -39,5 +39,7 @@ dependencies:
     - vaderSentiment
     - twint
     - praw
+    - pdtext
     - pyocr
     - blackcellmagic
+    - warcio
