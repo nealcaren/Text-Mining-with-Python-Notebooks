@@ -43,3 +43,5 @@ dependencies:
     - pyocr
     - blackcellmagic
     - warcio
+    - gender_guesser
+    - tinysegmenter==0.3
