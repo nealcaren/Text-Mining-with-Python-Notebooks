@@ -32,6 +32,8 @@ dependencies:
   - spacy-model-en_core_web_md
   - newspaper3k
   - pyldavis
+  - jupyterthemes
+  - twine
   - pip
   - pip:
     - requests-html
